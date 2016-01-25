@@ -16,7 +16,7 @@ $ npm install npm-url --global
 
 ## Usage
 
-```js
+```bash
 $ npm-url --help
 
   Open your browser on the URL of the NPM package.
