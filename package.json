@@ -1,0 +1,47 @@
+{
+  "name": "npm-url",
+  "description": "Open your browser on the URL of the NPM package.",
+  "homepage": "https://github.com/Kikobeats/npm-url",
+  "version": "0.0.0",
+  "main": "./index.js",
+  "bin": {
+    "npm-url": "./bin/index.js"
+  },
+  "author": {
+    "email": "josefrancisco.verdu@gmail.com",
+    "name": "Kiko Beats",
+    "url": "https://github.com/Kikobeats"
+  },
+  "repository": "Kikobeats/npm-url",
+  "bugs": {
+    "url": "https://github.com/Kikobeats/npm-url/issues"
+  },
+  "keywords": [
+    "npm",
+    "open",
+    "package",
+    "browser",
+    "url",
+    "cli"
+  ],
+  "dependencies": {
+    "meow": "~3.7.0",
+    "opn": "~4.0.0",
+    "read-pkg": "~1.1.0",
+    "update-notifier": "~0.6.0"
+  },
+  "devDependencies": {
+    "git-dirty": "~1.0.1",
+    "standard": "~5.4.1"
+  },
+  "engines": {
+    "node": ">= 4"
+  },
+  "scripts": {
+    "clean": "rm -rf node_modules",
+    "lint": "standard lib",
+    "pretest": "npm run lint",
+    "test": "mocha"
+  },
+  "license": "MIT"
+}
