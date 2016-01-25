@@ -2,7 +2,7 @@
   "name": "npm-url",
   "description": "Open your browser on the URL of the NPM package.",
   "homepage": "https://github.com/Kikobeats/npm-url",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "./index.js",
   "bin": {
     "npm-url": "./bin/index.js"
