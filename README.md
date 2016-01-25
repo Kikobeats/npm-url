@@ -1,7 +1,6 @@
 # npm-url
 
 ![Last version](https://img.shields.io/github/tag/Kikobeats/npm-url.svg?style=flat-square)
-[![Build Status](http://img.shields.io/travis/Kikobeats/npm-url/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/npm-url)
 [![Dependency status](http://img.shields.io/david/Kikobeats/npm-url.svg?style=flat-square)](https://david-dm.org/Kikobeats/npm-url)
 [![Dev Dependencies Status](http://img.shields.io/david/dev/Kikobeats/npm-url.svg?style=flat-square)](https://david-dm.org/Kikobeats/npm-url#info=devDependencies)
 [![NPM Status](http://img.shields.io/npm/dm/npm-url.svg?style=flat-square)](https://www.npmjs.org/package/npm-url)
