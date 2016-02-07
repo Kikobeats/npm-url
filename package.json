@@ -2,7 +2,7 @@
   "name": "npm-url",
   "description": "Open your browser on the URL of the NPM package.",
   "homepage": "https://github.com/Kikobeats/npm-url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./index.js",
   "bin": {
     "npm-url": "./bin/index.js"
@@ -20,12 +20,12 @@
     "url": "https://github.com/Kikobeats/npm-url/issues"
   },
   "keywords": [
+    "browser",
+    "cli",
     "npm",
     "open",
     "package",
-    "browser",
-    "url",
-    "cli"
+    "url"
   ],
   "dependencies": {
     "meow": "~3.7.0",
@@ -46,7 +46,5 @@
     "pretest": "npm run lint",
     "test": "mocha"
   },
-  "license": "MIT",
-  "readme": "ERROR: No README data found!",
-  "_id": "npm-url@1.0.0"
+  "license": "MIT"
 }
