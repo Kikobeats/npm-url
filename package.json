@@ -31,7 +31,7 @@
     "meow": "~3.7.0",
     "opn": "~4.0.2",
     "read-pkg": "~1.1.0",
-    "update-notifier": "~1.0.0"
+    "update-notifier": "~1.0.1"
   },
   "devDependencies": {
     "git-dirty": "latest",
