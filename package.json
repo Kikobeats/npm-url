@@ -29,9 +29,9 @@
   ],
   "dependencies": {
     "meow": "~3.7.0",
-    "opn": "~4.0.2",
-    "read-pkg": "~1.1.0",
-    "update-notifier": "~1.0.2"
+    "opn": "~5.1.0",
+    "read-pkg": "~3.0.0",
+    "update-notifier": "~2.3.0"
   },
   "devDependencies": {
     "git-dirty": "latest",
