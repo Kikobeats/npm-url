@@ -28,7 +28,7 @@
     "url"
   ],
   "dependencies": {
-    "meow": "~3.7.0",
+    "meow": "~6.0.0",
     "opn": "~5.1.0",
     "read-pkg": "~3.0.0",
     "update-notifier": "~2.3.0"
